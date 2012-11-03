@@ -26,6 +26,7 @@ PRODUCT_PACKAGES := \
     Calculator \
     Calendar \
     CertInstaller \
+    CMFileManager \
     DrmProvider \
     Email \
     Exchange2 \
