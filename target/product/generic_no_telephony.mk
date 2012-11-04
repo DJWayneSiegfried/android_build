@@ -22,6 +22,7 @@ PRODUCT_POLICY := android.policy_phone
 PRODUCT_PACKAGES := \
     Apollo \
     DeskClock \
+    DSPManager \
     Bluetooth \
     Calculator \
     Calendar \
